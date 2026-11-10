@@ -8,6 +8,8 @@
 
 This repository presents an independently maintained copy of the team's completed project. It preserves the supplied game source and browser build.
 
+**[Play The Trials of the Mind](https://leahweldon.github.io/The-Trials-of-the-Mind/)**
+
 ![The Awakening, the opening scene of The Trials of the Mind](docs/screenshots/awakening.png)
 
 ## Highlights
