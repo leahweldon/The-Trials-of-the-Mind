@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+._*
+*.swp
+*.swo
+*~
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
